@@ -1,0 +1,13 @@
+{
+    "name": "takyam/compare_php_excel",
+    "authors": [
+        {
+            "name": "takyam",
+            "email": "takayuki.yamaguch.m@gmail.com"
+        }
+    ],
+    "require": {
+        "mk-j/php_xlsxwriter": "^0.38.0",
+        "box/spout": "^3.1"
+    }
+}
